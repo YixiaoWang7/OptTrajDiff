@@ -88,7 +88,12 @@ Below are the key arguments relevant to our work:
 ## Citation
 If you find our work helpful, please **star 🌟** this repo and **cite 📑** our paper. BibTex will be updated soon. Thanks for your support!
 ```
-Coming soon.
+@article{wang2024optimizing,
+  title={Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation},
+  author={Wang, Yixiao and Tang, Chen and Sun, Lingfeng and Rossi, Simone and Xie, Yichen and Peng, Chensheng and Hannagan, Thomas and Sabatini, Stefano and Poerio, Nicola and Tomizuka, Masayoshi and others},
+  journal={arXiv preprint arXiv:2408.00766},
+  year={2024}
+}
 ```
 
 This repository is developed based on [Query-Centric Trajectory Prediction](https://github.com/ZikangZhou/QCNet).
