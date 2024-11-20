@@ -88,11 +88,13 @@ Below are the key arguments relevant to our work:
 ## Citation
 If you find our work helpful, please **star 🌟** this repo and **cite 📑** our paper. BibTex will be updated soon. Thanks for your support!
 ```
-@article{wang2024optimizing,
-  title={Optimizing Diffusion Models for Joint Trajectory Prediction and Controllable Generation},
+@inproceedings{wang2025optimizing,
+  title={Optimizing diffusion models for joint trajectory prediction and controllable generation},
   author={Wang, Yixiao and Tang, Chen and Sun, Lingfeng and Rossi, Simone and Xie, Yichen and Peng, Chensheng and Hannagan, Thomas and Sabatini, Stefano and Poerio, Nicola and Tomizuka, Masayoshi and others},
-  journal={arXiv preprint arXiv:2408.00766},
-  year={2024}
+  booktitle={European Conference on Computer Vision},
+  pages={324--341},
+  year={2025},
+  organization={Springer}
 }
 ```
 
